@@ -1,0 +1,29 @@
+{
+  "name": "@fiahfy/prettier-config",
+  "description": "My prettier config",
+  "version": "0.0.0",
+  "author": {
+    "name": "fiahfy",
+    "email": "d.fiahfy@gmail.com",
+    "url": "https://fiahfy.github.io/"
+  },
+  "bugs": {
+    "url": "https://github.com/fiahfy/prettier-config/issues"
+  },
+  "files": [
+    "index.js"
+  ],
+  "homepage": "https://github.com/fiahfy/prettier-config",
+  "keywords": [
+    "prettier"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiahfy/prettier-config.git"
+  }
+}
