@@ -10,6 +10,9 @@
   "bugs": {
     "url": "https://github.com/fiahfy/prettier-config/issues"
   },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  },
   "files": [
     "index.js"
   ],
@@ -25,5 +28,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fiahfy/prettier-config.git"
+  },
+  "scripts": {
+    "test": "prettier -c --ignore-path .gitignore ."
   }
 }
