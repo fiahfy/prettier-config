@@ -24,10 +24,10 @@ Edit `package.json`
 Or edit `.prettierrc.js`
 
 ```js
-const config = require("@fiahfy/prettier-config");
+const config = require('@fiahfy/prettier-config')
 
 module.exports = {
   ...config,
   // ...
-};
+}
 ```
